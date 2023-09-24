@@ -1,2 +1,3 @@
 test praktike
 Ky eshte test per push te 2 me message
+Ky eshte test per pull
